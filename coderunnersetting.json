@@ -1,0 +1,7 @@
+{
+    "code-runner.executorMapByFileExtension": {
+        ".ans":"python [The directory of RunAPDL.py] $fullFileName",
+        ".apdl":"python [The directory of RunAPDL.py] $fullFileName",
+        ".mac":"python [The directory of RunAPDL.py] $fullFileName"
+    }
+}
